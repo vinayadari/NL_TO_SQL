@@ -88,8 +88,8 @@ ollama pull sqlcoder
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/nl2sql-mcp.git
-cd nl2sql-mcp
+git clone https://github.com/vinayadari/NL_TO_SQL.git
+cd NL_TO_SQL
 
 # 2. Install dependencies
 pip install -r requirements.txt
